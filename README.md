@@ -5,3 +5,4 @@ This algorythm finds the solution to the TTP (http://en.wikipedia.org/wiki/Trave
 The "genererCalendrier()" method in the ttp class is a recursive method exploring the tree of solutions, 
 which stops evaluating a branch when the partial solution built is unvalid or have a higher cost than the best cost found so far.
 See --> http://mat.gsia.cmu.edu/TOURN/
+Approximate calculation time for 6 cities : 1 day
